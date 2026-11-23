@@ -180,7 +180,7 @@ The repository structure above is a suggested layout. Add the dataset and analys
 
 Data Analyst | Excel | SQL | Power BI | Python
 
-[E-mail](rosheedathassan7@gmail.com) | [LinkedIn](www.linkedin.com/in/hassan-rosheedat-570a6340a)
+[E-mail](mailto:rosheedathassan7@gmail.com) | [LinkedIn](www.linkedin.com/in/hassan-rosheedat-570a6340a)
 
 
 ## About
